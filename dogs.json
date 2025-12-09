@@ -1,0 +1,1322 @@
+[
+  {
+    "dog_id": "29",
+    "dog": {
+      "name": "Lotto",
+      "age": "3 years 9 months",
+      "sex": "Male",
+      "breed": "Cavoodle ",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/12/Lotto.webp"
+    },
+    "owner": {
+      "name": "Nat",
+      "phone": "424616456",
+      "preferred_contact": "Whatsapp"
+    },
+    "pricing_data": {
+      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Ows $420"
+    },
+    "feeding": {
+      "times": "Morning",
+      "amount": "2 scoops "
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon, Evening",
+      "duration": "15-30 mins"
+    },
+    "medical": {
+      "medical_condition": "",
+      "allergies": "Yes",
+      "allergies_detail": "Chicken beef"
+    },
+    "emergency": {
+      "emergency_contact": "Violeta",
+      "phone_number": "411765963",
+      "vet_name": "Sydney Animal Hospital Erskineville",
+      "vet_contact": "95194111"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "",
+      "afraid_of": "",
+      "owners_remark": "Pls keep him on lead when walk or outside"
+    }
+  },
+  {
+    "dog_id": "28",
+    "dog": {
+      "name": "Rocket ",
+      "age": "6.5",
+      "sex": "Male",
+      "breed": "Pomeranian ",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/12/Rocket.webp"
+    },
+    "owner": {
+      "name": "Angela ",
+      "phone": "426526536",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "One can of dog food per meal "
+    },
+    "walks": {
+      "frequency": "Morning, Evening",
+      "duration": "30-40 minutes "
+    },
+    "medical": {
+      "medical_condition": "",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "John Atra ",
+      "phone_number": "406698947",
+      "vet_name": "Vet central Earlwood ",
+      "vet_contact": "02 97840400"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Sometimes other dogs, birds and when scared",
+      "afraid_of": "Thunder or loud noises ",
+      "owners_remark": "When he wants to go to toilet he goes in circles"
+    }
+  },
+  {
+    "dog_id": "30",
+    "dog": {
+      "name": "Burrito",
+      "age": "5",
+      "sex": "Male",
+      "breed": "French Bulldog",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/No-photo.webp"
+    },
+    "owner": {
+      "name": "Olga",
+      "phone": "477785513",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "",
+      "amount": ""
+    },
+    "walks": {
+      "frequency": "",
+      "duration": ""
+    },
+    "medical": {
+      "medical_condition": "",
+      "allergies": "",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "",
+      "phone_number": "",
+      "vet_name": "",
+      "vet_contact": ""
+    },
+    "behavior": {
+      "barks_in_reaction_to": "",
+      "afraid_of": "",
+      "owners_remark": ""
+    }
+  },
+  {
+    "dog_id": "27",
+    "dog": {
+      "name": "Latte ",
+      "age": "1.5",
+      "sex": "Male",
+      "breed": "Chihuahua ",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/12/Latte1.webp"
+    },
+    "owner": {
+      "name": "Caitlin ",
+      "phone": "435132717",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "30 grams "
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon",
+      "duration": "15 minutes "
+    },
+    "medical": {
+      "medical_condition": "",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "Luka ",
+      "phone_number": "+61 404 783 280",
+      "vet_name": "Shire Vet ",
+      "vet_contact": "+61 2 7501 5095"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Noises- people closing the door in our apartment block, our neighbours coming home. He’s an alert barker",
+      "afraid_of": "Sometimes loud cars and bikes but not every time. Hates the microchip scanner.",
+      "owners_remark": "He loves to chew plastic things "
+    }
+  },
+  {
+    "dog_id": "26",
+    "dog": {
+      "name": "Pepe",
+      "age": "4.5",
+      "sex": "Male",
+      "breed": "Poodle ",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/12/Pepi.webp"
+    },
+    "owner": {
+      "name": "Carlo Greco",
+      "phone": "487947411",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "1 cup"
+    },
+    "walks": {
+      "frequency": "Afternoon",
+      "duration": "10 mins "
+    },
+    "medical": {
+      "medical_condition": "",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "Ibby Alali ",
+      "phone_number": "404154449",
+      "vet_name": "Rosebery Veterinary Hospital",
+      "vet_contact": "291600777"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Minimal barking",
+      "afraid_of": "Vacuum cleaners ",
+      "owners_remark": ""
+    }
+  },
+  {
+    "dog_id": "25",
+    "dog": {
+      "name": "Homer",
+      "age": "7",
+      "sex": "Male",
+      "breed": "Mini Groodle",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/12/homer.webp"
+    },
+    "owner": {
+      "name": "Camilla & Chris",
+      "phone": "452366650",
+      "preferred_contact": "Whatsapp"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "$35 x 1 dog",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "One scoop of dry food plus one wet sachet mixed in "
+    },
+    "walks": {
+      "frequency": "Morning, Evening",
+      "duration": "Can be short just to use toilet if not using the mat inside - 5/10 mins but generally needs one longer walk every second day or running around"
+    },
+    "medical": {
+      "medical_condition": "",
+      "allergies": "No",
+      "allergies_detail": "Only one dentastick per day - can be broken up into smaller portions as multiple treats "
+    },
+    "emergency": {
+      "emergency_contact": "Lucia Maggio",
+      "phone_number": "438396562",
+      "vet_name": "Sydney Animal Hospital Newtown",
+      "vet_contact": "295194111"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Bouncing balls, loud wheels on skateboards/scooters",
+      "afraid_of": "Fireworks and popping balloons, nail guns (bang sounds)",
+      "owners_remark": "Sometimes chooses to ignore "
+    }
+  },
+  {
+    "dog_id": "24",
+    "dog": {
+      "name": "Harvey ",
+      "age": "1.5",
+      "sex": "Male",
+      "breed": "Mini groodle ",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Harvey.webp"
+    },
+    "owner": {
+      "name": "Jennifer Gwan",
+      "phone": "402139543",
+      "preferred_contact": "Whatsapp"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "$35 x 1 dog",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "Decent serve - he's a little piggie! "
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon",
+      "duration": "30-1hr "
+    },
+    "medical": {
+      "medical_condition": "None ",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "Josie Grainer ",
+      "phone_number": "0414 313 936",
+      "vet_name": "Bondi Vet ",
+      "vet_contact": ""
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Barks with excitement if sees another dog or hears one bark - otherwise not ",
+      "afraid_of": "Has a little separation anxiety when left alone so may whimper ",
+      "owners_remark": "He's a super snuggle bug so may be a space invader on couch or bed if allowed. He's just a big lover and adores people and other dogs. He has loads of running energy in dog parks and then crashes and sleeps for most of the day so I usually do off leash in the mornings at dog park. He can pull a tiny bit at start of walk but chills out and only minor as we are working on this. "
+    }
+  },
+  {
+    "dog_id": "23",
+    "dog": {
+      "name": "Shagal",
+      "age": "4",
+      "sex": "Male",
+      "breed": "Cavalier x kelpie ",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Shagal.webp"
+    },
+    "owner": {
+      "name": "Phil Barone",
+      "phone": "439899498",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "$35 x 1 dog",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "1 cup"
+    },
+    "walks": {
+      "frequency": "Morning, Evening",
+      "duration": "20 minutes to an hour "
+    },
+    "medical": {
+      "medical_condition": "Nil",
+      "allergies": "No",
+      "allergies_detail": "But just generally wouldn’t feed him anything outside dry and wet dog and dog treats"
+    },
+    "emergency": {
+      "emergency_contact": "Tatyana elanova",
+      "phone_number": "411839832",
+      "vet_name": "Pet O vet O brookvale ",
+      "vet_contact": "02 8880 9192"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Birds and occasionally outside noises. But not much",
+      "afraid_of": "Small children and ocassionally other dogs in regards to ball or toys",
+      "owners_remark": "Sensitive stomach, scared /reactive to children , possessive of his ball"
+    }
+  },
+  {
+    "dog_id": "22",
+    "dog": {
+      "name": "Creamy",
+      "age": "2",
+      "sex": "Female",
+      "breed": "Pomeranian",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Creamy.webp"
+    },
+    "owner": {
+      "name": "Rene Ting",
+      "phone": "411883259",
+      "preferred_contact": "Whatsapp"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "$35 x 1 dog",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "40g"
+    },
+    "walks": {
+      "frequency": "Evening",
+      "duration": "15"
+    },
+    "medical": {
+      "medical_condition": "",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "Johnson",
+      "phone_number": "0414 285 280",
+      "vet_name": "Burwood and Bay Vet Hospital",
+      "vet_contact": "297452600"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "First encounter ",
+      "afraid_of": "",
+      "owners_remark": ""
+    }
+  },
+  {
+    "dog_id": "21",
+    "dog": {
+      "name": "Shiloh",
+      "age": "2",
+      "sex": "Male",
+      "breed": "Cavoodle",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Shilo.webp"
+    },
+    "owner": {
+      "name": "Sarah Teng",
+      "phone": "410244998",
+      "preferred_contact": "Pet Sitting App"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "1/2 packet morning and evening"
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon",
+      "duration": "30min-60mins"
+    },
+    "medical": {
+      "medical_condition": "Nil",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "David",
+      "phone_number": "402515485",
+      "vet_name": "",
+      "vet_contact": ""
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Sometimes other dogs barking",
+      "afraid_of": "Sometimes big dogs barking",
+      "owners_remark": "He does not like sharing food. "
+    }
+  },
+  {
+    "dog_id": "20",
+    "dog": {
+      "name": "Hugo",
+      "age": "1",
+      "sex": "Male",
+      "breed": "Cavoodle",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Hugo.webp"
+    },
+    "owner": {
+      "name": "Hugo",
+      "phone": "425701681",
+      "preferred_contact": "Whatsapp"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "Large hand full"
+    },
+    "walks": {
+      "frequency": "Morning, Evening",
+      "duration": "30-45"
+    },
+    "medical": {
+      "medical_condition": "N/a",
+      "allergies": "Yes",
+      "allergies_detail": "We only feed him kibble"
+    },
+    "emergency": {
+      "emergency_contact": "Nathan borger",
+      "phone_number": "419384040",
+      "vet_name": "",
+      "vet_contact": ""
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Nothing",
+      "afraid_of": "Cat rides",
+      "owners_remark": "Loves people loves company"
+    }
+  },
+  {
+    "dog_id": "19",
+    "dog": {
+      "name": "Ketut & Coco",
+      "age": "12-6",
+      "sex": "Male",
+      "breed": "Shitzu dachshund and fox terrier poodle",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Coco-y-Ketut.webp"
+    },
+    "owner": {
+      "name": "Cathy Sergi",
+      "phone": "41534524",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$60 x 2 dogs",
+      "last_price_day_care": "$40 x 2 dogs",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Afternoon",
+      "amount": "One bowl full"
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon",
+      "duration": "30 once per day at anytime, the. Small little one in afternoon "
+    },
+    "medical": {
+      "medical_condition": "No",
+      "allergies": "Yes",
+      "allergies_detail": "Ketut can’t eat anything above 10% fat as gets pancreatitis (no fatty food or treats)"
+    },
+    "emergency": {
+      "emergency_contact": "Oz Korkmazer",
+      "phone_number": "+61 451 509 098",
+      "vet_name": "Sydney animal hospital ",
+      "vet_contact": "295161466"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "No",
+      "afraid_of": "No",
+      "owners_remark": ""
+    }
+  },
+  {
+    "dog_id": "18",
+    "dog": {
+      "name": "Newton",
+      "age": "3",
+      "sex": "Male",
+      "breed": "dachshund",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Newton.webp"
+    },
+    "owner": {
+      "name": "Julien de Wit",
+      "phone": "429391062",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "Half cup of dry food and a little wet food"
+    },
+    "walks": {
+      "frequency": "Morning, Evening",
+      "duration": "20"
+    },
+    "medical": {
+      "medical_condition": "Isn't allowed to / can't go up and down stairs. Must be lifted everytime.",
+      "allergies": "No",
+      "allergies_detail": "If its too hot since he is long haired"
+    },
+    "emergency": {
+      "emergency_contact": "Lachlan White",
+      "phone_number": "401263421",
+      "vet_name": "Green Cross",
+      "vet_contact": "depends on which clinic"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Other dogs while on leesh",
+      "afraid_of": "The vet",
+      "owners_remark": "Always sits before being fed and you need to clap or say \"go\" and he will then start. Also sometime he will skip meals."
+    }
+  },
+  {
+    "dog_id": "17",
+    "dog": {
+      "name": "Franki",
+      "age": "5",
+      "sex": "Female",
+      "breed": "Spoodle",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Franki.webp"
+    },
+    "owner": {
+      "name": "Brittany Tan",
+      "phone": "434529212",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$55 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "I will provide in zip lock bags with instructions attached"
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon, Evening",
+      "duration": "Long enough for a wee/poo. Only will need a wee at lunch. "
+    },
+    "medical": {
+      "medical_condition": "",
+      "allergies": "No",
+      "allergies_detail": "Just avoid giving her any food that isn’t hers"
+    },
+    "emergency": {
+      "emergency_contact": "Keeta Tuner",
+      "phone_number": "+61 420 882 462",
+      "vet_name": "Maroubra Veterinary  Hospital",
+      "vet_contact": "+61 2 9344 8722"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "May bark at other dogs if they jump on her",
+      "afraid_of": "",
+      "owners_remark": "If you need to leave her home alone she prefers being alone in a small space e.g a bedroom or bathroom. Just leave her water and bed with her :)"
+    }
+  },
+  {
+    "dog_id": "16",
+    "dog": {
+      "name": "Gus",
+      "age": "12",
+      "sex": "Male",
+      "breed": "Jack Russell x Kelpie cross",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Gus.webp"
+    },
+    "owner": {
+      "name": "Josie Grainer ",
+      "phone": "414313936",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$35 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Afternoon",
+      "amount": "He has a pack of Lyka in the morning with half a spoon of Mighty Munch probiotic sprinkled and then at some point during the day I pop a cup (provided in dry food) in his bowl and he will graze when he wants to. OK Gusso is his cue word. I try to take his Lyka out of the fridge about 15-30 mins before so it’s ambient temperature but you don’t have to 😀"
+    },
+    "walks": {
+      "frequency": "Morning",
+      "duration": "We typically go for about a 30 min walk in the morning and then I play frisbee or throw one of his toys to him throughout the day in our courtyard. As he is a senior I find he prefers sniff walks but can also keep up on fast walks. He’ll love you if you take pooches out morning and afternoon 😀"
+    },
+    "medical": {
+      "medical_condition": "Nil",
+      "allergies": "Yes",
+      "allergies_detail": "He doesn’t like loud noises so if you’re walking on a main road with trucks going past he will be very nervous. Even clanking of pots and pans and plates he will most likely scurry away. No known food allergies"
+    },
+    "emergency": {
+      "emergency_contact": "Barbara Parchert",
+      "phone_number": "418868316",
+      "vet_name": "Vet HQ Double Bay. It’s not an emergency vet",
+      "vet_contact": "9326 1255"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "People at the door, being left alone for prolonged periods",
+      "afraid_of": "Ibises (yes the birds). He can smell them a mile away and if he sees white dots on the ground he will sniff it incase it’s Ibis poo. If off lead and he sees one he will chase it but then will come back. Loud noises in general ",
+      "owners_remark": "At home he will scratch at the door when he needs to go out to the toilet but if you leave your door open to your porch he will go to the toilet in your porch (if he’s allowed to). He tends to like to go to bed about 930pm and I generally say TOILET and take him out before bed. Sometimes he needs to go out in the middle of the night but I think that’s just with me as when he’s stayed with friends and family they say he doesn’t do that.\nHe LOVES LOVES his fluffy toys/bear, chew toys and frisbee and will most likely get it and walk around with them and drop them in front of you if he wants you to play with him and give you puppy dog eyes.\n\nTypically he’s not a huge fan of being touched. Even if he comes and sits next to you I’d avoid touching him for the first few days as he may get startled. You watch he’ll be the biggest snuggle bunny with you two 😀\n\nThank you so so much! \nI will only be in Queensland so please feel free to text or call me whenever.\nJosie"
+    }
+  },
+  {
+    "dog_id": "15",
+    "dog": {
+      "name": "Ned",
+      "age": "14",
+      "sex": "Male",
+      "breed": "Mini Dachshund  ",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/NED.webp"
+    },
+    "owner": {
+      "name": "Cate Gazal",
+      "phone": "410828977",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$35 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "1/2 Cup morning after his walk and night "
+    },
+    "walks": {
+      "frequency": "Morning, Evening",
+      "duration": "20-30mins "
+    },
+    "medical": {
+      "medical_condition": "None ",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "Tushar Raniga",
+      "phone_number": "+61 449 904 423",
+      "vet_name": "Marrickville Vet Hospital AMS",
+      "vet_contact": "02 9558 2500"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "No really a barker ",
+      "afraid_of": "None ",
+      "owners_remark": ""
+    }
+  },
+  {
+    "dog_id": "14",
+    "dog": {
+      "name": "Goldie",
+      "age": "10",
+      "sex": "Female",
+      "breed": "Mixed poodle",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Goldie.webp"
+    },
+    "owner": {
+      "name": "Evan",
+      "phone": "411986938",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$55 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "~80-90g?"
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon",
+      "duration": "10-15 min (mainly for going to toilets)"
+    },
+    "medical": {
+      "medical_condition": "Daily Apoquel",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "Stella",
+      "phone_number": "430853888",
+      "vet_name": "",
+      "vet_contact": ""
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Only whines when trying to meet others dogs while on leash",
+      "afraid_of": "None that I am aware of",
+      "owners_remark": "She loves cuddling, belly rub, and holding"
+    }
+  },
+  {
+    "dog_id": "13",
+    "dog": {
+      "name": "Jax",
+      "age": "4",
+      "sex": "Male",
+      "breed": "Shitzu x chihuahua x toy poodle ",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Jax.webp"
+    },
+    "owner": {
+      "name": "Lara Varrica",
+      "phone": "406986921",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$70 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "Morning - dru biscuits and chicken, dinner - dry biscuits "
+    },
+    "walks": {
+      "frequency": "Morning",
+      "duration": "30 minutes "
+    },
+    "medical": {
+      "medical_condition": "Yes he has epilepsy and needs a tablet every morning and night or will have a fit. He has 1 full tablet for breakfast and a 1/2 tablet for night time. This is 1.5 tablets a day. I will show you in person, I hide it in his chicken ",
+      "allergies": "No",
+      "allergies_detail": "Gets a bit car sick"
+    },
+    "emergency": {
+      "emergency_contact": "Monique Varrica ",
+      "phone_number": "450696726",
+      "vet_name": "Southside vet cronulla ",
+      "vet_contact": "+61 2 9523 5500"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Noises outside and birds ",
+      "afraid_of": "Loud noises ",
+      "owners_remark": "Same as Lexa, “do you wanna tweat” thinks he is getting food so more responsive. At night he will beg and cry for his dinner "
+    }
+  },
+  {
+    "dog_id": "12",
+    "dog": {
+      "name": "Lexa",
+      "age": "4",
+      "sex": "Female",
+      "breed": "Shetland sheepdog x chihuahua",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Lexa.webp"
+    },
+    "owner": {
+      "name": "Lara Varrica",
+      "phone": "406986921",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$70 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "Morning - dry biscuits and chicken, dinner - a few more dry biscuits "
+    },
+    "walks": {
+      "frequency": "Morning",
+      "duration": "30 minutes (she prefers to sniff then to walk for social enjoyment, doesn’t like other dogs)"
+    },
+    "medical": {
+      "medical_condition": "No (just anxious)",
+      "allergies": "Yes",
+      "allergies_detail": "She’s sensitive to moss and wet grass for bacteria. She just licks her paws a lot if they’re irritated and might need some saline (salt water wash)"
+    },
+    "emergency": {
+      "emergency_contact": "Monique Varrica",
+      "phone_number": "450696726",
+      "vet_name": "Southside Vet Cronulla ",
+      "vet_contact": "+61 2 9523 5500"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Other dogs, intruders or loud noises ",
+      "afraid_of": "Other dogs, is very weary with people in the beginning particularly males ",
+      "owners_remark": "“Do you wanna tweat” gets her attention as she thinks she is getting food "
+    }
+  },
+  {
+    "dog_id": "11",
+    "dog": {
+      "name": "Diggle ",
+      "age": "3",
+      "sex": "Male",
+      "breed": "Sausage dog ",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/diggle-scaled.webp"
+    },
+    "owner": {
+      "name": "Samira jaber",
+      "phone": "416466489",
+      "preferred_contact": "Whatsapp"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$35 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "2 cups and half red cups with milk "
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon, Evening",
+      "duration": "15 minutes "
+    },
+    "medical": {
+      "medical_condition": "None ",
+      "allergies": "No",
+      "allergies_detail": "None "
+    },
+    "emergency": {
+      "emergency_contact": "Riad jaber kalil",
+      "phone_number": "+61 420 201 676",
+      "vet_name": "30 Princes Hwy, KOGARAH 2217 ",
+      "vet_contact": "Princess hwy veterinary hospital "
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Other people or dogs ",
+      "afraid_of": "Afraid of ambulances sounds ",
+      "owners_remark": "Just always keep the lead short when is people walking or running "
+    }
+  },
+  {
+    "dog_id": "10",
+    "dog": {
+      "name": "Macie",
+      "age": "5",
+      "sex": "Female",
+      "breed": "Mini schnauzer ",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/12/Macie.webp"
+    },
+    "owner": {
+      "name": "robert jones",
+      "phone": "409326900",
+      "preferred_contact": "Whatsapp"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "2 handful biscuits in morning & evening: I will supply "
+    },
+    "walks": {
+      "frequency": "Morning, Evening",
+      "duration": "1hr morning. Around the block at night "
+    },
+    "medical": {
+      "medical_condition": "",
+      "allergies": "Yes",
+      "allergies_detail": "Real chicken meat or chicken chews "
+    },
+    "emergency": {
+      "emergency_contact": "Rod hales",
+      "phone_number": "0411 430 250",
+      "vet_name": "Kingsford vet",
+      "vet_contact": "9662 6703"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Barks at other dogs to play with her. Not aggressive at all",
+      "afraid_of": "People to start with , but will settle for hugs ",
+      "owners_remark": "Love cuddles. If she is too energetic talk firm to her and she will listen and stop ."
+    }
+  },
+  {
+    "dog_id": "9",
+    "dog": {
+      "name": "Burrata ",
+      "age": "2",
+      "sex": "Female",
+      "breed": "Shih tzu ",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Burrata.webp"
+    },
+    "owner": {
+      "name": "Eelee",
+      "phone": "458233996",
+      "preferred_contact": "Whatsapp"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$35 x 1 dog",
+      "last_price_day_care": "$25 x 1 dog",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "Dog sitting - one meal usually around 5.30 or 6pm. Dog boarding two meals usually 9am and 5.30pm."
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon, Evening",
+      "duration": "Usually 5 to 10 minutes unless she wants to walk more. She is more of an apartment dog, but does enjoy a longer walk if the weather is good."
+    },
+    "medical": {
+      "medical_condition": "She is reactive to other dogs so we would recommend keeping her a safe distance from other dogs when walking ",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "Vincenzo",
+      "phone_number": "458904578",
+      "vet_name": "Sydney Dogs and Cats Home",
+      "vet_contact": "427909269"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Other dogs",
+      "afraid_of": "Other dogs ",
+      "owners_remark": "She has pet insurance (fetch) so if she needs any medical emergency (hopefully not, but always good as an fyi), please do not hesitate. "
+    }
+  },
+  {
+    "dog_id": "8",
+    "dog": {
+      "name": "Chester",
+      "age": "8",
+      "sex": "Male",
+      "breed": "Cavoodle",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Chester.webp"
+    },
+    "owner": {
+      "name": "Jonny (and Phil)",
+      "phone": "439744224",
+      "preferred_contact": "Whatsapp"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Afternoon",
+      "amount": "2 scoops per meal (provided)"
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon, Evening",
+      "duration": "1 x 45-60min, 1x morning 5 mins, 1 afternoon/eve 5 mins"
+    },
+    "medical": {
+      "medical_condition": "Heart murmur (monitored - no issues)",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "Nicky Wye ",
+      "phone_number": "61497067981",
+      "vet_name": "Sydney animal hospital, Erskinville",
+      "vet_contact": "295194111"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "doorbell/buzzer",
+      "afraid_of": "big dogs",
+      "owners_remark": "Gentle dog but can be nervous at first around other dogs. likes to sit on your lap on the sofa. "
+    }
+  },
+  {
+    "dog_id": "7",
+    "dog": {
+      "name": "Bella",
+      "age": "15",
+      "sex": "Female",
+      "breed": "Staffy X",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Bellaa.webp"
+    },
+    "owner": {
+      "name": "Luke Charleton",
+      "phone": "402748870",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$35 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Afternoon",
+      "amount": "1 cup dry food AM. 1 serve food PM. "
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon, Evening",
+      "duration": "10/15 min walk. Any time of day. "
+    },
+    "medical": {
+      "medical_condition": "",
+      "allergies": "Yes",
+      "allergies_detail": "Nothing beef/kangaroo based."
+    },
+    "emergency": {
+      "emergency_contact": "",
+      "phone_number": "",
+      "vet_name": "",
+      "vet_contact": ""
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Short yap to be let in or out the house. ",
+      "afraid_of": "",
+      "owners_remark": "Bella’s hearing is not as good as it used to be. She is quite good with hand gestures. "
+    }
+  },
+  {
+    "dog_id": "6",
+    "dog": {
+      "name": "Lola",
+      "age": "4",
+      "sex": "Female",
+      "breed": "Bichon Frise",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Lolla.webp"
+    },
+    "owner": {
+      "name": "Linden Fuller",
+      "phone": "402533951",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$55 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Afternoon",
+      "amount": "2 x rounded soup spoons (usually noy mornings but has chewies in mornings)"
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon",
+      "duration": "15 to 25. minutes (depending on toileting)"
+    },
+    "medical": {
+      "medical_condition": "Nil",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "Ben Selby (son)",
+      "phone_number": "421986282",
+      "vet_name": "Julian Smith Jannali Veterinary",
+      "vet_contact": ""
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Other dogs when worried",
+      "afraid_of": "Thunder, fireworks",
+      "owners_remark": "Likes to play fight with biscuits with Charli and chase toys (indoors)"
+    }
+  },
+  {
+    "dog_id": "5",
+    "dog": {
+      "name": "Charli",
+      "age": "6",
+      "sex": "Female",
+      "breed": "Bichon Frise",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Charlie.webp"
+    },
+    "owner": {
+      "name": "Linden Fuller",
+      "phone": "402533951",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$55 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Afternoon",
+      "amount": "2 x soup rounded spoons plus some chewies that I'll bring"
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon",
+      "duration": "15 to 25 minutes (also until they toilet)"
+    },
+    "medical": {
+      "medical_condition": "Nil",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "Ben Selby",
+      "phone_number": "421986282",
+      "vet_name": "Julian Smith - Jannali Veterinary ",
+      "vet_contact": ""
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Other dogs",
+      "afraid_of": "Thunder, fireworks",
+      "owners_remark": "usually fairly chilled, but will bark if wanting to say hello to other dogs"
+    }
+  },
+  {
+    "dog_id": "4",
+    "dog": {
+      "name": "Ellie",
+      "age": "13",
+      "sex": "Female",
+      "breed": "Pomeranian",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Ellie.webp"
+    },
+    "owner": {
+      "name": "Innika Brown",
+      "phone": "402003343",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$55 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "4 tablespoons of wet food"
+    },
+    "walks": {
+      "frequency": "Evening",
+      "duration": "30"
+    },
+    "medical": {
+      "medical_condition": "Nil",
+      "allergies": "Yes",
+      "allergies_detail": "Escape artist, will try to get out. "
+    },
+    "emergency": {
+      "emergency_contact": "Max",
+      "phone_number": "0449 553 286",
+      "vet_name": "Animal Tracks Vet",
+      "vet_contact": "02 9764 6066"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Barks if other dogs are barking  ",
+      "afraid_of": "Loud noises, dyson hair dryers, loud bangs",
+      "owners_remark": "Please ensure yard is secure as she will try and find a way to get out to go explore. "
+    }
+  },
+  {
+    "dog_id": "3",
+    "dog": {
+      "name": "Mini",
+      "age": "13",
+      "sex": "Female",
+      "breed": "Chihuahua X",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Mini.webp"
+    },
+    "owner": {
+      "name": "Innika Brown",
+      "phone": "402003343",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$55 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "4 tablespoons of wet food"
+    },
+    "walks": {
+      "frequency": "Evening",
+      "duration": "30mins"
+    },
+    "medical": {
+      "medical_condition": "Seizures, 2 x 92ml Kepra liquid doses daily. ",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "Max",
+      "phone_number": "0449 553 286",
+      "vet_name": "Animal Tracks Vet Clinic ",
+      "vet_contact": "02 9764 6066"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "",
+      "afraid_of": "",
+      "owners_remark": ""
+    }
+  },
+  {
+    "dog_id": "2",
+    "dog": {
+      "name": "Oliver  (Ollie)",
+      "age": "3",
+      "sex": "Male",
+      "breed": "Chihuahua ",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Olli.webp"
+    },
+    "owner": {
+      "name": "Mark Gill",
+      "phone": "438833329",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$55 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "4 tablesoons wet food and 3rd.cup kibble at 7pm. Exactely the same as asper "
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon",
+      "duration": "20"
+    },
+    "medical": {
+      "medical_condition": "Nil",
+      "allergies": "No",
+      "allergies_detail": "Nil"
+    },
+    "emergency": {
+      "emergency_contact": "Jo Hofmann",
+      "phone_number": "61411741887",
+      "vet_name": "Greencross Alexandria",
+      "vet_contact": "93897534"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Barks at larger dogs. Keep your didtance from bigger dogs. 😊",
+      "afraid_of": "Not really. ",
+      "owners_remark": "Gets very cold. Likes to cuddle up and keep warm."
+    }
+  },
+  {
+    "dog_id": "1",
+    "dog": {
+      "name": "Jasper",
+      "age": "8",
+      "sex": "Male",
+      "breed": "Chihuahua",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Jasper.webp"
+    },
+    "owner": {
+      "name": "Mark Gill",
+      "phone": "438833339",
+      "preferred_contact": "SMS"
+    },
+    "pricing_data": {
+      "last_price_boarding": "$55 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "Wet food provided. 4 tablespoons"
+    },
+    "walks": {
+      "frequency": "Afternoon, Evening",
+      "duration": "20min"
+    },
+    "medical": {
+      "medical_condition": "No",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "Jo Hofmann",
+      "phone_number": "61411741887",
+      "vet_name": "Greencross Alexandria.",
+      "vet_contact": "02 32798651"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "",
+      "afraid_of": "Thunderstorms ",
+      "owners_remark": "Leave supplied pink peamats on bathroom floor  in shower area. Show them. They'll use if busting and can't go out. "
+    }
+  }
+]
