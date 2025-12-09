@@ -1,0 +1,4 @@
+pandas>=2.0
+gspread>=6.2
+gspread_dataframe>=3.2
+oauth2client>=4.1
