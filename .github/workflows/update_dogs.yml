@@ -1,0 +1,38 @@
+name: Update DoggyDex JSON
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Every day at 6:00 UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install gspread gspread_dataframe pandas
+
+      - name: Create service account file
+        run: |
+          echo "${{ secrets.GOOGLE_SERVICE_ACCOUNT }}" > service_account.json
+
+      - name: Run Google Sheet → JSON script
+        run: |
+          python googletojson.py
+
+      - name: Commit and push JSON to repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add dogs.json
+          git commit -m "Auto-update dogs.json from Google Sheet" || echo "No changes"
+          git push
