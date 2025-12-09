@@ -10,7 +10,7 @@ from gspread_dataframe import get_as_dataframe
 DEFAULT_PHOTO_URL = "https://offthestream.com/wp-content/uploads/2025/11/No-photo.webp"
 
 # Path to your downloaded service account key
-SERVICE_ACCOUNT_FILE = "service_account.json"
+SERVICE_ACCOUNT_FILE = ".secrets/service_account.json"
 
 # ID or URL of your Google Sheet
 SPREADSHEET_ID = "1S3pYc6j0inIMmFs1ic38uWhCTv3GFBLn6HxDJrK8isw"
