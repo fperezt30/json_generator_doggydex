@@ -102,3 +102,7 @@ with open(output_path, "w", encoding="utf-8") as f:
     json.dump(dogs_list, f, ensure_ascii=False, indent=2)
 
 print(f"Exported {len(dogs_list)} dog profiles to {output_path}")
+
+'''
+this is a comment
+'''
