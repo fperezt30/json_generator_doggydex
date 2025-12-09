@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -38,4 +40,4 @@ jobs:
           git remote -v
           git add dogs.json
           git commit -m "Auto-update dogs.json from Google Sheet" || echo "No changes"
-          git push origin master
+          git push origin master --force
