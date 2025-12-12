@@ -1,17 +1,17 @@
 [
   {
-    "dog_id": "31",
+    "dog_id": "30",
     "dog": {
       "name": "Bobby",
       "age": "5",
-      "sex": "",
-      "breed": "Jack Rusell",
+      "sex": "Male",
+      "breed": "Jack Russell ",
       "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/No-photo.webp"
     },
     "owner": {
-      "name": "Ping",
+      "name": "Ping Chen & Jeff Chan",
       "phone": "414543007",
-      "preferred_contact": ""
+      "preferred_contact": "Whatsapp"
     },
     "pricing_data": {
       "last_price_boarding": "",
@@ -19,28 +19,28 @@
       "outstanding_balance": ""
     },
     "feeding": {
-      "times": "",
-      "amount": ""
+      "times": "Morning, Afternoon, Evening",
+      "amount": "A scoop of dry food"
     },
     "walks": {
-      "frequency": "",
-      "duration": ""
+      "frequency": "Morning, Afternoon, Evening",
+      "duration": "15 -30 mins"
     },
     "medical": {
       "medical_condition": "",
-      "allergies": "",
+      "allergies": "No",
       "allergies_detail": ""
     },
     "emergency": {
-      "emergency_contact": "",
-      "phone_number": "",
-      "vet_name": "",
-      "vet_contact": ""
+      "emergency_contact": "Jeff Chan",
+      "phone_number": "466088489",
+      "vet_name": "Bayside animal hospital Wolli Creek ",
+      "vet_contact": "02 79010837"
     },
     "behavior": {
-      "barks_in_reaction_to": "",
-      "afraid_of": "",
-      "owners_remark": ""
+      "barks_in_reaction_to": "Strangers and birds",
+      "afraid_of": "Big dog ",
+      "owners_remark": "Bobby would love to pee and poo outside of place, especially on the green grass. Please wash his paws after walking him outside. He loves to play balls or any toys. "
     }
   },
   {
@@ -132,7 +132,7 @@
     }
   },
   {
-    "dog_id": "30",
+    "dog_id": "31",
     "dog": {
       "name": "Burrito",
       "age": "5",
