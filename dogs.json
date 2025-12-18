@@ -132,50 +132,6 @@
     }
   },
   {
-    "dog_id": "31",
-    "dog": {
-      "name": "Burrito",
-      "age": "5",
-      "sex": "Male",
-      "breed": "French Bulldog",
-      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/No-photo.webp"
-    },
-    "owner": {
-      "name": "Olga",
-      "phone": "477785513",
-      "preferred_contact": "SMS"
-    },
-    "pricing_data": {
-      "last_price_boarding": "Full Seasonal 2025",
-      "last_price_day_care": "Nil",
-      "outstanding_balance": "Nil"
-    },
-    "feeding": {
-      "times": "",
-      "amount": ""
-    },
-    "walks": {
-      "frequency": "",
-      "duration": ""
-    },
-    "medical": {
-      "medical_condition": "",
-      "allergies": "",
-      "allergies_detail": ""
-    },
-    "emergency": {
-      "emergency_contact": "",
-      "phone_number": "",
-      "vet_name": "",
-      "vet_contact": ""
-    },
-    "behavior": {
-      "barks_in_reaction_to": "",
-      "afraid_of": "",
-      "owners_remark": ""
-    }
-  },
-  {
     "dog_id": "27",
     "dog": {
       "name": "Latte ",
