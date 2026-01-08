@@ -60,7 +60,7 @@
     "pricing_data": {
       "last_price_boarding": "Full Seasonal 2025",
       "last_price_day_care": "Nil",
-      "outstanding_balance": ""
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Afternoon, Evening",
@@ -592,7 +592,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount": "Half cup of dry food and a little wet food"
+      "amount": "1/3 of dry food and a two teaspoons wet food. If he skips more than one meal, try to add little more wet food or a tiny bit of cheese."
     },
     "walks": {
       "frequency": "Morning, Evening",
@@ -606,7 +606,7 @@
     "emergency": {
       "emergency_contact": "Lachlan White",
       "phone_number": "401263421",
-      "vet_name": "Green Cross",
+      "vet_name": "Green Cross Vets (FREE Consultation",
       "vet_contact": "depends on which clinic"
     },
     "behavior": {
