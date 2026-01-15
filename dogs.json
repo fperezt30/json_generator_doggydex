@@ -1,5 +1,93 @@
 [
   {
+    "dog_id": "33",
+    "dog": {
+      "name": "Sebastian ",
+      "age": "14",
+      "sex": "Male",
+      "breed": "Shihtzus ",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/No-photo.webp"
+    },
+    "owner": {
+      "name": "Giorgia Kontos ",
+      "phone": "418601354",
+      "preferred_contact": "Whatsapp"
+    },
+    "pricing_data": {
+      "last_price_boarding": "",
+      "last_price_day_care": "",
+      "outstanding_balance": ""
+    },
+    "feeding": {
+      "times": "Morning, Afternoon, Evening",
+      "amount": "During handover instructions will be provided "
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon, Evening",
+      "duration": "10 mins"
+    },
+    "medical": {
+      "medical_condition": "Dry cough -nothing to worry about ",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "Sia Kontos",
+      "phone_number": "419483413",
+      "vet_name": "Southern Cross Vet Clinic St Peters",
+      "vet_contact": "95160234"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Tends to bark at passing dogs if he is on our patio",
+      "afraid_of": "Lightning",
+      "owners_remark": ""
+    }
+  },
+  {
+    "dog_id": "32",
+    "dog": {
+      "name": "Clio Kontos",
+      "age": "13",
+      "sex": "Male",
+      "breed": "Shihtzus ",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/No-photo.webp"
+    },
+    "owner": {
+      "name": "Giorgia Kontos ",
+      "phone": "418601354",
+      "preferred_contact": "Whatsapp"
+    },
+    "pricing_data": {
+      "last_price_boarding": "",
+      "last_price_day_care": "",
+      "outstanding_balance": ""
+    },
+    "feeding": {
+      "times": "Morning, Afternoon, Evening",
+      "amount": "Will provide written instructions during handover"
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon, Evening",
+      "duration": "5 mins…..requires wee wee just before bedtime"
+    },
+    "medical": {
+      "medical_condition": "Seizures, cranial nerve damage, arthritis, bone structure abnormalities ",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "emergency": {
+      "emergency_contact": "Sia Kontos",
+      "phone_number": "419483413",
+      "vet_name": "Southern Cross Vet Clinic",
+      "vet_contact": "95160234"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "",
+      "afraid_of": "",
+      "owners_remark": "Clio is a mature dog and sleeps all day. Treats are given at lunchtime along with dry biscuits "
+    }
+  },
+  {
     "dog_id": "31",
     "dog": {
       "name": "Uni",
