@@ -1,5 +1,49 @@
 [
   {
+    "dog_id": "34",
+    "dog": {
+      "name": "Sydney",
+      "age": "13",
+      "sex": "Female",
+      "breed": "Labradoodle",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/No-photo.webp"
+    },
+    "owner": {
+      "name": "Mei Mei and Nick ",
+      "phone": "60122389532",
+      "preferred_contact": "Whatsapp"
+    },
+    "pricing_data": {
+      "last_price_boarding": "",
+      "last_price_day_care": "",
+      "outstanding_balance": ""
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "One small mug each meal (we will bring the measuring mug) "
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon, Evening",
+      "duration": "30 - 60 mins each walk "
+    },
+    "medical": {
+      "medical_condition": "1. Has had pancreatitis 2x (therefore needs to be fed 2 x a day , morning and night)\n2. Many food allergies therefore on strict diet of special kibble and chicken breast (and only dried chicken or turkey based treats)\n3. Has start of arthritis and can't do stairs (but good with hills as long no stairs)",
+      "allergies": "Yes",
+      "allergies_detail": "Sydney on strict diet of Royal Canin Hypoallergenic kibble and cooked chicken breast (and chicken /turkey based treats) . We will bring all teh food. She is intolerant to many foods."
+    },
+    "emergency": {
+      "emergency_contact": "Mei Mei ",
+      "phone_number": "+60192683386 (Whatsapp) ",
+      "vet_name": "Greencross Five Docks Dr Alex  but any Greencross vet branches will do (Both registered under Nick Powell's Australia number 0420283532) ",
+      "vet_contact": "(02) 8753 1300"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "",
+      "afraid_of": "Thunder and fireworks",
+      "owners_remark": "1. Sydney does a walking poo.\n2. She is greedy with food and need to watch she does not eat Milo's portion "
+    }
+  },
+  {
     "dog_id": "33",
     "dog": {
       "name": "Sebastian ",
