@@ -1,6 +1,6 @@
 [
   {
-    "dog_id": "35",
+    "dog_id": "34",
     "dog": {
       "name": "Milo",
       "age": "7",
@@ -44,7 +44,7 @@
     }
   },
   {
-    "dog_id": "34",
+    "dog_id": "33",
     "dog": {
       "name": "Sydney",
       "age": "13",
@@ -88,7 +88,7 @@
     }
   },
   {
-    "dog_id": "33",
+    "dog_id": "32",
     "dog": {
       "name": "Sebastia",
       "age": "14",
@@ -132,7 +132,7 @@
     }
   },
   {
-    "dog_id": "32",
+    "dog_id": "31",
     "dog": {
       "name": "Clio",
       "age": "13",
@@ -176,7 +176,7 @@
     }
   },
   {
-    "dog_id": "31",
+    "dog_id": "30",
     "dog": {
       "name": "Uni",
       "age": "10 months",
@@ -220,50 +220,6 @@
     }
   },
   {
-    "dog_id": "30",
-    "dog": {
-      "name": "Bobby",
-      "age": "5",
-      "sex": "Male",
-      "breed": "Jack Russell ",
-      "photo_url": "https://offthestream.com/wp-content/uploads/2025/12/bobby1.webp"
-    },
-    "owner": {
-      "name": "Ping Chen & Jeff Chan",
-      "phone": "414543007",
-      "preferred_contact": "Whatsapp"
-    },
-    "pricing_data": {
-      "last_price_boarding": "Full Seasonal 2025",
-      "last_price_day_care": "Nil",
-      "outstanding_balance": "Nil"
-    },
-    "feeding": {
-      "times": "Morning, Afternoon, Evening",
-      "amount": "A scoop of dry food"
-    },
-    "walks": {
-      "frequency": "Morning, Afternoon, Evening",
-      "duration": "15 -30 mins"
-    },
-    "medical": {
-      "medical_condition": "",
-      "allergies": "No",
-      "allergies_detail": ""
-    },
-    "emergency": {
-      "emergency_contact": "Jeff Chan",
-      "phone_number": "466088489",
-      "vet_name": "Bayside animal hospital Wolli Creek ",
-      "vet_contact": "02 79010837"
-    },
-    "behavior": {
-      "barks_in_reaction_to": "Strangers and birds",
-      "afraid_of": "Big dog ",
-      "owners_remark": "Bobby would love to pee and poo outside of place, especially on the green grass. Please wash his paws after walking him outside. He loves to play balls or any toys. "
-    }
-  },
-  {
     "dog_id": "29",
     "dog": {
       "name": "Lotto",
@@ -278,9 +234,9 @@
       "preferred_contact": "Whatsapp"
     },
     "pricing_data": {
-      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_boarding": "$55 x  1 dog",
       "last_price_day_care": "Nil",
-      "outstanding_balance": "Ows $420"
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning",
@@ -322,7 +278,7 @@
       "preferred_contact": "SMS"
     },
     "pricing_data": {
-      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_boarding": "$55 x  1 dog",
       "last_price_day_care": "Nil",
       "outstanding_balance": "Nil"
     },
@@ -366,7 +322,7 @@
       "preferred_contact": "SMS"
     },
     "pricing_data": {
-      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_boarding": "$55 x  1 dog",
       "last_price_day_care": "Nil",
       "outstanding_balance": "Nil"
     },
@@ -410,7 +366,7 @@
       "preferred_contact": "SMS"
     },
     "pricing_data": {
-      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_boarding": "$55 x  1 dog",
       "last_price_day_care": "Nil",
       "outstanding_balance": "Nil"
     },
