@@ -20,7 +20,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount": "One small mug per meal - we will bring the measuring mug"
+      "amount": "Almost half cup morning + Chicken breast chopped \nFull cup at night + Chicken breast chopped"
     },
     "walks": {
       "frequency": "Morning, Afternoon, Evening",
@@ -64,16 +64,16 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount": "One small mug each meal (we will bring the measuring mug) "
+      "amount": "Almost half cup morning + Chicken breast chopped \nFull cup at night + Chicken breast chopped"
     },
     "walks": {
       "frequency": "Morning, Afternoon, Evening",
       "duration": "30 - 60 mins each walk "
     },
     "medical": {
-      "medical_condition": "1. Has had pancreatitis 2x (therefore needs to be fed 2 x a day , morning and night)\n2. Many food allergies therefore on strict diet of special kibble and chicken breast (and only dried chicken or turkey based treats)\n3. Has start of arthritis and can't do stairs (but good with hills as long no stairs)",
+      "medical_condition": "0. Medication: Half pill apoquel w/ chicken breast. and medication green 1 treat\n1. Has had pancreatitis 2x (therefore needs to be fed 2 x a day , morning and night)\n2. Many food allergies therefore on strict diet of special kibble and chicken breast (and only dried chicken or turkey based treats)\n3. Has start of arthritis and can't do stairs (but good with hills as long no stairs)",
       "allergies": "Yes",
-      "allergies_detail": "Sydney on strict diet of Royal Canin Hypoallergenic kibble and cooked chicken breast (and chicken /turkey based treats) . We will bring all teh food. She is intolerant to many foods."
+      "allergies_detail": "Sydney on strict diet of Royal Canin Hypoallergenic kibble. She is intolerant to many foods."
     },
     "emergency": {
       "emergency_contact": "Mei Mei ",
